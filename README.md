@@ -11,13 +11,7 @@ other than its main feature we have also developed 2 side features:
 ### Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
-- [Additional Resources](#additional-resources)
 
 ## Installation
 Follow the steps below to run this project on your local machine.
